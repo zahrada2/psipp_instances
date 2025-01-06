@@ -1,0 +1,11 @@
+map: random8_3a_42.map
+agents:
+  - id: 0
+    start: [1, 2]
+    goal: [6, 2]
+  - id: 1
+    start: [3, 2]
+    goal: [3, 5]
+  - id: 2
+    start: [2, 4]
+    goal: [5, 0]
